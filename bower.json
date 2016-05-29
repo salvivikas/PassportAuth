@@ -1,0 +1,17 @@
+{
+  "name": "passport-auth",
+  "description": "Validation using passport",
+  "main": "",
+  "authors": [
+    "Vikas"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "latest",
+    "angular-ui-router": "latest",
+    "angular-route": "latest",
+    "bootstrap": "latest"
+  }
+}
